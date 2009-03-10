@@ -26,5 +26,6 @@
 int main()
 {
     printf("Hello world!");
+    printf("==========================>");
     return 0;
 }
